@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  font-family: arial, sans-serif;
+}
+nav{
+  background: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav a{
+    display:inline-block;
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+
+}
+nav a.selected{
+    font-weight: bold;
+}
+main{
+    padding: 20px;
+    text-align: center;
+}
